@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mctcHan
 - 👀 I’m interested in photography.
 - 🌱 I’m currently learning javaScript.
-- 💞️ I’m looking to collaborate on WEBI.
+- 💞️ I’m looking to collaborate on Font_End development.
 - 
 <!---
 mctcHan/mctcHan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
